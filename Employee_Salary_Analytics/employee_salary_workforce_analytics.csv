@@ -1,0 +1,129 @@
+Employee_ID,Employee_Name,Gender,Age,Department,Designation,Experience,Salary,Bonus,Performance_Score,City,Work_Mode,Joining_Year,Education,Overtime,Leaves,Projects_Completed,Training_Hours,Job_Satisfaction
+EMP001,Aanya Chatterjee,Female,26,Engineering,Analyst,3,676000,34000,6,Delhi,Remote,2022,Master's,Yes,6,2,8,2.7
+EMP002,Aditya Nair,Male,38,Marketing,Senior Manager,10,1134000,91000,7.7,Bengaluru,Office,2016,B.Tech,No,9,7,19,4
+EMP003,Diya Bhat,Female,33,Customer Support,Associate,0,367000,41000,9.4,Mumbai,Office,2026,PhD,Yes,12,2,30,3
+EMP004,Dev Mehta,Male,32,Finance,Manager,7,945000,66000,7.1,Hyderabad,Hybrid,2018,Master's,No,15,7,41,4.3
+EMP005,Kavya Agarwal,Female,44,Operations,Director,14,1483000,149000,8.8,Chennai,Office,2012,B.Tech,Yes,18,8,14,3.3
+EMP006,Kabir Kapoor,Male,39,Data Analytics,Senior Analyst,4,777000,46000,6.5,Pune,Office,2022,PhD,Yes,21,3,25,4.6
+EMP007,Nisha Verma,Female,38,Human Resources,Senior Manager,11,1134000,102000,8.2,Kolkata,Hybrid,2014,Master's,No,24,8,36,3.6
+EMP008,Manav Jain,Male,33,Sales,Associate,1,457000,69000,9.9,Delhi,Remote,2025,B.Tech,No,8,4,9,4.9
+EMP009,Priya Singh,Female,32,Engineering,Manager,8,1035000,,7.6,Bengaluru,Office,2018,PhD,No,11,5,20,3.9
+EMP010,Rahul Iyer,Male,44,Marketing,Director,15,1513000,166000,9.3,Mumbai,Hybrid,2010,Master's,No,14,10,31,2.9
+EMP011,Sana Sharma,Female,39,Customer Support,Senior Analyst,5,677000,46000,7,Hyderabad,Office,2021,B.Tech,Yes,17,5,42,4.2
+EMP012,Sahil Gupta,Male,38,Finance,Senior Manager,12,1265000,125000,8.7,Chennai,Office,2014,PhD,No,20,10,15,3.2
+EMP013,Tanvi Reddy,Female,33,Operations,Analyst,2,527000,30000,6.4,Pune,Hybrid,2023,Master's,Yes,23,1,26,4.5
+EMP014,Vihaan Das,Male,32,Data Analytics,Manager,9,1005000,88000,8.1,Kolkata,Office,2017,B.Tech,No,7,6,37,3.5
+EMP015,Zoya Patel,Female,44,Human Resources,Director,16,1513000,179000,9.8,Delhi,Remote,2010,PhD,No,10,11,10,4.8
+EMP016,Aarav Chatterjee,Male,39,Sales,Senior Analyst,6,767000,82000,7.5,Bengaluru,Hybrid,2019,Master's,Yes,13,7,21,3.8
+EMP017,Ananya Nair,Female,38,Engineering,Senior Manager,13,1355000,146000,9.2,Mumbai,Office,2013,B.Tech,No,16,8,32,2.8
+EMP018,Arjun Bhat,Male,33,Marketing,Analyst,3,608000,40000,6.9,Hyderabad,Office,2023,PhD,No,19,3,43,4.1
+EMP019,Isha Mehta,Female,45,Customer Support,Senior Manager,10,1065000,103000,8.6,Chennai,Hybrid,2015,Master's,Yes,22,8,16,3.1
+EMP020,Ishaan Agarwal,Male,27,Finance,Associate,0,459000,25000,6.3,Pune,Office,2026,B.Tech,No,6,3,27,4.4
+EMP021,Meera Kapoor,Female,39,Operations,Manager,7,887000,76000,8,Kolkata,Office,2019,PhD,Yes,9,4,38,3.4
+EMP022,Karan Verma,Male,38,Data Analytics,Director,14,1545000,180000,9.7,Delhi,Remote,2011,Master's,No,12,9,11,4.7
+EMP023,Pooja Jain,Female,33,Human Resources,Senior Analyst,4,688000,52000,7.4,Bengaluru,Office,2022,B.Tech,No,15,4,22,3.7
+EMP024,Nikhil Singh,Male,45,Sales,Senior Manager,11,1206000,164000,9.1,Mumbai,Office,2015,PhD,No,18,9,33,2.7
+EMP025,Riya Iyer,Female,27,Engineering,Associate,1,549000,35000,6.8,Hyderabad,Hybrid,2024,Master's,No,21,1,44,4
+EMP026,Rohan Sharma,Male,39,Marketing,Manager,8,917000,87000,8.5,Chennai,Office,2018,B.Tech,Yes,24,6,17,3
+EMP027,Shreya Gupta,Female,38,Customer Support,Director,15,1445000,77000,6.2,Pune,Office,2011,PhD,Yes,8,11,28,4.3
+EMP028,Vikram Reddy,Male,33,Finance,Senior Analyst,5,768000,65000,7.9,Kolkata,Hybrid,2020,Master's,No,11,6,39,3.3
+EMP029,Vanya Das,Female,45,Operations,Senior Manager,12,1206000,138000,9.6,Delhi,Remote,2014,B.Tech,Yes,14,7,12,4.6
+EMP030,Yash Patel,Male,27,Data Analytics,Analyst,2,640000,47000,7.3,Bengaluru,Office,2024,PhD,No,17,2,23,3.6
+EMP031,Aanya Chatterjee,Female,39,Human Resources,Manager,9,917000,95000,9,Mumbai,Hybrid,2016,Master's,Yes,20,7,34,4.9
+EMP032,Aditya Nair,Male,51,Sales,Director,16,1535000,142000,6.7,Hyderabad,Office,2010,B.Tech,No,23,12,,3.9
+EMP033,Diya Bhat,Female,33,Engineering,Senior Analyst,6,858000,80000,8.4,Chennai,Office,2020,PhD,No,7,4,18,2.9
+EMP034,Dev Mehta,Male,45,Marketing,Senior Manager,13,1236000,64000,6.1,Pune,Hybrid,2012,Master's,No,10,9,29,4.2
+EMP035,Kavya Agarwal,Female,27,Customer Support,Analyst,3,540000,44000,7.8,Kolkata,Office,2023,B.Tech,Yes,13,4,40,3.2
+EMP036,Kabir Kapoor,Male,39,Finance,Senior Manager,10,1208000,137000,9.5,Delhi,Remote,2016,PhD,Yes,16,9,13,4.5
+EMP037,Nisha Verma,Female,34,Operations,Associate,0,400000,29000,7.2,Bengaluru,Hybrid,2026,Master's,Yes,19,1,24,3.5
+EMP038,Manav Jain,Male,33,Data Analytics,Manager,7,948000,97000,8.9,Mumbai,Office,2019,B.Tech,No,22,5,35,4.8
+EMP039,Priya Singh,Female,45,Human Resources,Director,14,1456000,89000,6.6,Hyderabad,Office,2012,PhD,No,6,10,8,3.8
+EMP040,Rahul Iyer,Male,27,Sales,Senior Analyst,4,710000,86000,8.3,Chennai,Hybrid,2021,Master's,No,9,5,19,2.8
+EMP041,Sana Sharma,Female,39,Engineering,Senior Manager,11,1298000,65000,6,Pune,Office,2015,B.Tech,Yes,12,6,30,4.1
+EMP042,Sahil Gupta,Male,34,Marketing,Associate,1,481000,39000,7.7,Kolkata,Office,2025,PhD,No,15,2,41,3.1
+EMP043,Tanvi Reddy,Female,33,Customer Support,Manager,8,848000,94000,9.4,Delhi,Remote,2017,Master's,Yes,18,7,14,4.4
+EMP044,Vihaan Das,Male,45,Finance,Director,15,1536000,107000,7.1,Bengaluru,Office,2011,B.Tech,No,21,12,25,3.4
+EMP045,Zoya Patel,Female,40,Operations,Senior Analyst,5,710000,71000,8.8,Mumbai,Office,2021,PhD,Yes,24,3,36,4.7
+EMP046,Aarav Chatterjee,Male,39,Data Analytics,Senior Manager,12,1268000,75000,6.5,Hyderabad,Hybrid,2013,Master's,Yes,8,8,9,3.7
+EMP047,Ananya Nair,Female,34,Human Resources,Analyst,2,551000,49000,8.2,Chennai,Office,2024,B.Tech,No,11,3,20,2.7
+EMP048,Arjun Bhat,Male,33,Sales,Manager,9,989000,149000,9.9,Pune,Office,2017,PhD,No,14,8,31,4
+EMP049,Isha Mehta,Female,45,Engineering,Director,16,1626000,128000,7.6,Kolkata,Hybrid,2009,Master's,No,17,9,42,3
+EMP050,Ishaan Agarwal,Male,40,Marketing,Senior Analyst,6,740000,81000,9.3,Delhi,Remote,2020,B.Tech,No,20,5,15,
+EMP051,Meera Kapoor,Female,39,Customer Support,Senior Manager,13,1168000,79000,7,Bengaluru,Office,2013,PhD,Yes,23,10,26,3.3
+EMP052,Karan Verma,Male,34,Finance,Analyst,3,631000,62000,8.7,Mumbai,Hybrid,2022,Master's,No,7,5,37,4.6
+EMP053,Pooja Jain,Female,33,Operations,Senior Manager,10,1149000,66000,6.4,Hyderabad,Office,2016,B.Tech,Yes,10,6,10,3.6
+EMP054,Nikhil Singh,Male,28,Data Analytics,Associate,0,513000,45000,8.1,Chennai,Office,2026,PhD,No,13,1,21,4.9
+EMP055,Riya Iyer,Female,40,Human Resources,Manager,7,860000,102000,9.8,Pune,Hybrid,2018,Master's,No,16,6,32,3.9
+EMP056,Rohan Sharma,Male,39,Sales,Director,14,1478000,158000,7.5,Kolkata,Office,2012,B.Tech,Yes,19,11,43,2.9
+EMP057,Shreya Gupta,Female,34,Engineering,Senior Analyst,4,801000,86000,9.2,Delhi,Remote,2022,PhD,No,22,2,16,4.2
+EMP058,Vikram Reddy,Male,46,Marketing,Senior Manager,11,1179000,78000,6.9,Bengaluru,Hybrid,2014,Master's,No,6,7,27,3.2
+EMP059,Vanya Das,Female,28,Customer Support,Associate,1,413000,40000,8.6,Mumbai,Office,2025,B.Tech,Yes,9,3,38,4.5
+EMP060,Yash Patel,Male,40,Finance,Manager,8,991000,55000,6.3,Hyderabad,Office,2018,PhD,No,12,8,11,3.5
+EMP061,Aanya Chatterjee,Female,39,Operations,Director,15,1478000,127000,8,Chennai,Hybrid,2010,Master's,Yes,15,9,22,4.8
+EMP062,Aditya Nair,Male,34,Data Analytics,Senior Analyst,5,771000,90000,9.7,Pune,Office,2021,B.Tech,No,18,4,33,3.8
+EMP063,Diya Bhat,Female,46,Human Resources,Senior Manager,12,1179000,89000,7.4,Kolkata,Office,2014,PhD,No,21,9,44,2.8
+EMP064,Dev Mehta,Male,28,Sales,Analyst,2,573000,78000,9.1,Delhi,Remote,2023,Master's,No,24,4,17,4.1
+EMP065,Kavya Agarwal,Female,40,Engineering,Manager,9,1081000,70000,6.8,Bengaluru,Office,2017,B.Tech,No,8,5,28,3.1
+EMP066,Kabir Kapoor,Male,39,Marketing,Director,16,1559000,148000,8.5,Mumbai,Office,2010,PhD,Yes,11,10,39,4.4
+EMP067,Nisha Verma,Female,34,Customer Support,Senior Analyst,6,671000,36000,6.2,Hyderabad,Hybrid,2019,Master's,Yes,14,6,12,3.4
+EMP068,Manav Jain,Male,46,Finance,Senior Manager,13,1259000,106000,7.9,Chennai,Office,2013,B.Tech,No,17,11,23,4.7
+EMP069,Priya Singh,Female,28,Operations,Analyst,3,573000,66000,9.6,Pune,Office,2023,PhD,Yes,20,2,34,3.7
+EMP070,Rahul Iyer,Male,40,Data Analytics,Senior Manager,10,1211000,89000,7.3,Kolkata,Hybrid,2015,Master's,No,23,7,45,2.7
+EMP071,Sana Sharma,Female,35,Human Resources,Associate,0,424000,44000,9,Delhi,Remote,2026,B.Tech,Yes,7,2,18,4
+EMP072,Sahil Gupta,Male,34,Sales,Manager,7,932000,86000,6.7,Bengaluru,Office,2019,PhD,No,10,7,29,3
+EMP073,Tanvi Reddy,Female,46,Engineering,Director,14,1569000,146000,8.4,Mumbai,Hybrid,2011,Master's,No,13,8,40,4.3
+EMP074,Vihaan Das,Male,28,Marketing,Senior Analyst,4,683000,35000,,Hyderabad,Office,2022,B.Tech,No,16,3,13,3.3
+EMP075,Zoya Patel,Female,40,Customer Support,Senior Manager,11,1111000,92000,7.8,Chennai,Office,2015,PhD,Yes,19,8,24,4.6
+EMP076,Aarav Chatterjee,Male,35,Finance,Associate,1,504000,57000,9.5,Pune,Hybrid,2024,Master's,Yes,22,4,35,3.6
+EMP077,Ananya Nair,Female,34,Operations,Manager,8,932000,67000,7.2,Kolkata,Office,2018,B.Tech,Yes,6,5,8,4.9
+EMP078,Arjun Bhat,Male,46,Data Analytics,Director,15,1590000,162000,8.9,Delhi,Remote,2011,PhD,No,9,10,19,3.9
+EMP079,Isha Mehta,Female,28,Human Resources,Senior Analyst,5,683000,42000,6.6,Bengaluru,Hybrid,2020,Master's,No,12,5,30,2.9
+EMP080,Ishaan Agarwal,Male,40,Sales,Senior Manager,12,1201000,146000,8.3,Mumbai,Office,2014,B.Tech,No,15,10,41,4.2
+EMP081,Meera Kapoor,Female,35,Engineering,Analyst,2,664000,33000,6,Hyderabad,Office,2024,PhD,Yes,18,1,14,3.2
+EMP082,Karan Verma,Male,34,Marketing,Manager,9,962000,78000,7.7,Chennai,Hybrid,2016,Master's,No,21,6,25,4.5
+EMP083,Pooja Jain,Female,46,Customer Support,Director,16,1490000,166000,9.4,Pune,Office,2010,B.Tech,Yes,24,11,36,3.5
+EMP084,Nikhil Singh,Male,41,Finance,Senior Analyst,6,814000,57000,7.1,Kolkata,Office,2020,PhD,No,8,7,9,4.8
+EMP085,Riya Iyer,Female,40,Operations,Senior Manager,13,1201000,121000,8.8,Delhi,Remote,2012,Master's,Yes,11,8,20,3.8
+EMP086,Rohan Sharma,Male,35,Data Analytics,Analyst,3,634000,37000,6.5,Bengaluru,Office,2023,B.Tech,Yes,14,3,31,2.8
+EMP087,Shreya Gupta,Female,34,Human Resources,Senior Manager,10,1122000,101000,8.2,Mumbai,Office,2016,PhD,No,17,8,42,4.1
+EMP088,Vikram Reddy,Male,29,Sales,Associate,0,446000,67000,9.9,Hyderabad,Hybrid,2026,Master's,No,20,3,15,3.1
+EMP089,Vanya Das,Female,41,Engineering,Manager,7,1024000,81000,7.6,,Office,2019,B.Tech,No,23,4,26,4.4
+EMP090,Yash Patel,Male,40,Marketing,Director,14,1502000,164000,9.3,Pune,Office,2012,PhD,No,7,9,37,3.4
+EMP091,Aanya Chatterjee,Female,35,Customer Support,Senior Analyst,4,614000,42000,7,Kolkata,Hybrid,2021,Master's,Yes,10,4,10,4.7
+EMP092,Aditya Nair,Male,34,Finance,Senior Manager,11,1202000,119000,8.7,Delhi,Remote,2015,B.Tech,No,13,9,21,3.7
+EMP093,Diya Bhat,Female,29,Operations,Associate,1,446000,26000,6.4,Bengaluru,Office,2025,PhD,Yes,16,1,32,2.7
+EMP094,Dev Mehta,Male,41,Data Analytics,Manager,8,994000,87000,8.1,Mumbai,Hybrid,2017,Master's,No,19,6,43,4
+EMP095,Kavya Agarwal,Female,40,Human Resources,Director,15,1502000,178000,9.8,Hyderabad,Office,2011,B.Tech,No,22,11,16,3
+EMP096,Kabir Kapoor,Male,35,Sales,Senior Analyst,5,755000,81000,7.5,Chennai,Office,2021,PhD,Yes,6,6,27,4.3
+EMP097,Nisha Verma,Female,47,Engineering,Senior Manager,12,1292000,139000,9.2,Pune,Hybrid,2013,Master's,No,9,7,38,3.3
+EMP098,Manav Jain,Male,29,Marketing,Analyst,2,546000,36000,6.9,Kolkata,Office,2024,B.Tech,No,12,2,11,4.6
+EMP099,Priya Singh,Female,41,Customer Support,Manager,9,894000,87000,8.6,Delhi,Remote,2017,PhD,Yes,15,7,22,3.6
+EMP100,Rahul Iyer,Male,40,Finance,Director,16,1582000,88000,6.3,Bengaluru,Hybrid,2009,Master's,No,18,12,33,4.9
+EMP101,Sana Sharma,Female,35,Operations,Senior Analyst,6,755000,65000,8,Mumbai,Office,2020,B.Tech,Yes,21,4,44,3.9
+EMP102,Sahil Gupta,Male,47,Data Analytics,Senior Manager,13,1313000,153000,9.7,Hyderabad,Office,2013,PhD,No,24,9,17,2.9
+EMP103,Tanvi Reddy,Female,29,Human Resources,Analyst,3,546000,41000,7.4,Chennai,Hybrid,2022,Master's,No,8,4,28,4.2
+EMP104,Vihaan Das,Male,41,Sales,Senior Manager,10,1144000,155000,9.1,Pune,Office,2016,B.Tech,No,11,9,39,3.2
+EMP105,Zoya Patel,Female,23,Engineering,Associate,0,537000,35000,6.8,Kolkata,Office,2026,PhD,No,14,1,12,4.5
+EMP106,Aarav Chatterjee,Male,35,Marketing,Manager,7,905000,86000,8.5,Delhi,Remote,2018,Master's,Yes,17,5,23,3.5
+EMP107,Ananya Nair,Female,47,Customer Support,Director,14,1433000,77000,6.2,Bengaluru,Office,2012,B.Tech,Yes,20,10,34,4.8
+EMP108,Arjun Bhat,Male,29,Finance,Senior Analyst,4,757000,64000,7.9,Mumbai,Office,2022,PhD,No,23,5,45,3.8
+EMP109,Isha Mehta,Female,41,Operations,Senior Manager,11,1144000,131000,9.6,Hyderabad,Hybrid,2014,Master's,Yes,7,6,18,2.8
+EMP110,Ishaan Agarwal,Male,36,Data Analytics,Associate,1,507000,37000,7.3,Chennai,Office,2025,B.Tech,No,10,2,29,4.1
+EMP111,Meera Kapoor,Female,35,Human Resources,Manager,8,905000,,9,Pune,Office,2018,PhD,Yes,13,7,40,3.1
+EMP112,Karan Verma,Male,47,Sales,Director,15,1523000,141000,6.7,Kolkata,Hybrid,2010,Master's,No,16,12,13,4.4
+EMP113,Pooja Jain,Female,29,Engineering,Senior Analyst,5,847000,79000,8.4,Delhi,Remote,2021,B.Tech,No,19,3,24,3.4
+EMP114,Nikhil Singh,Male,41,Marketing,Senior Manager,12,1225000,63000,6.1,Bengaluru,Office,2014,PhD,No,22,8,35,4.7
+EMP115,Riya Iyer,Female,36,Customer Support,Analyst,2,477000,39000,7.8,Mumbai,Hybrid,2023,Master's,Yes,6,3,8,3.7
+EMP116,Rohan Sharma,Male,35,Finance,Manager,9,985000,111000,9.5,Hyderabad,Office,2017,B.Tech,Yes,9,8,19,2.7
+EMP117,Shreya Gupta,Female,47,Operations,Director,16,1523000,109000,7.2,Chennai,Office,2010,PhD,Yes,12,9,,4
+EMP118,Vikram Reddy,Male,29,Data Analytics,Senior Analyst,6,817000,83000,8.9,Pune,Hybrid,2019,Master's,No,15,5,41,3
+EMP119,Vanya Das,Female,41,Human Resources,Senior Manager,13,1225000,74000,6.6,Kolkata,Office,2013,B.Tech,No,18,10,14,4.3
+EMP120,Yash Patel,Male,36,Sales,Analyst,3,618000,75000,8.3,Delhi,Remote,2023,PhD,No,21,5,25,3.3
+EMP121,Aanya Chatterjee,Female,35,Engineering,Senior Manager,10,1235000,62000,6,Bengaluru,Hybrid,2015,Master's,Yes,24,6,36,4.6
+EMP122,Aditya Nair,Male,30,Marketing,Associate,0,419000,34000,7.7,Mumbai,Office,2026,B.Tech,No,8,1,9,
+EMP123,Diya Bhat,Female,42,Customer Support,Manager,7,837000,93000,9.4,Hyderabad,Office,2019,PhD,Yes,11,6,20,4.9
+EMP124,Dev Mehta,Male,41,Finance,Director,14,1525000,106000,7.1,Chennai,Hybrid,2011,Master's,No,14,11,31,3.9
+EMP125,Kavya Agarwal,Female,36,Operations,Senior Analyst,4,698000,70000,8.8,Pune,Office,2022,B.Tech,Yes,17,2,42,2.9
+EMP013,Tanvi Reddy,Female,33,Operations,Analyst,2,527000,30000,6.4,Pune,Hybrid,2023,Master's,Yes,23,1,26,4.5
+EMP058,Vikram Reddy,Male,46,Marketing,Senior Manager,11,1179000,78000,6.9,Bengaluru,Hybrid,2014,Master's,No,6,7,27,3.2
+EMP102,Sahil Gupta,Male,47,Data Analytics,Senior Manager,13,1313000,153000,9.7,Hyderabad,Office,2013,PhD,No,24,9,17,2.9

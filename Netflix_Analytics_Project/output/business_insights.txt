@@ -1,0 +1,10 @@
+1. United States produces the highest Netflix content (3689 titles).
+2. Most popular genre is International Movies (2752 titles).
+3. Most common content rating is TV-MA.
+4. Highest number of releases occurred in 2018.
+5. Netflix focuses more on Movies than TV Shows.
+6. Top contributing director is Unknown.
+7. Movies represent 69.62% of Netflix content.
+8. TV Shows represent 30.38% of Netflix content.
+9. Netflix adds the highest content during July.
+10. One of the fastest-growing genres is Documentaries.
