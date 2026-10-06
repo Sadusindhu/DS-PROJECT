@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+{% block title %}Headline Analyzer | Smart Utility Hub{% endblock %}
+{% block content %}
+<section class="tool-page">
+    <div class="tool-header">
+        <span class="tool-badge">📰 HEADLINE ANALYZER</span>
+        <h1>Analyze a News Headline</h1>
+        <p>Check a headline for emotional language, clickbait signs and claims that may need verification.</p>
+    </div>
+    <div class="tool-container">
+        <div class="input-card">
+            <label for="headlineText">News Headline</label>
+            <textarea id="headlineText" placeholder="Example: Shocking discovery changes everything!"></textarea>
+            <button onclick="analyzeHeadline()" class="primary-btn">Analyze Headline</button>
+        </div>
+        <div class="result-card" id="headlineResult">
+            <div class="empty-result">
+                <span>📰</span>
+                <h3>Your analysis will appear here</h3>
+                <p>Enter a news headline and click "Analyze Headline".</p>
+            </div>
+        </div>
+    </div>
+</section>
+{% endblock %}

@@ -1,0 +1,50 @@
+{% extends "base.html" %}
+{% block title %}Home | Smart Utility Hub{% endblock %}
+{% block content %}
+<section class="hero">
+    <div class="hero-content">
+        <span class="hero-badge">✨ Smart Utility Hub</span>
+        <h1>Simple Tools for<br><span>Everyday Life</span></h1>
+        <p>Explore useful tools for cooking, travelling, gifting, messaging and understanding news headlines.</p>
+    </div>
+</section>
+<section class="projects">
+    <div class="section-heading">
+        <span>EXPLORE TOOLS</span>
+        <h2>Choose a Project</h2>
+        <p>Pick any tool below and get started.</p>
+    </div>
+    <div class="project-grid">
+        <a href="{{ url_for('recipe') }}" class="project-card">
+            <div class="card-icon">🍳</div>
+            <h3>Recipe Creator</h3>
+            <p>Enter ingredients and create a simple recipe.</p>
+            <span class="card-link">Create Recipe →</span>
+        </a>
+        <a href="{{ url_for('packing') }}" class="project-card">
+            <div class="card-icon">🧳</div>
+            <h3>Packing List</h3>
+            <p>Generate a useful packing list for your trip.</p>
+            <span class="card-link">Create List →</span>
+        </a>
+        <a href="{{ url_for('gift') }}" class="project-card">
+            <div class="card-icon">🎁</div>
+            <h3>Gift Ideas</h3>
+            <p>Find suitable gift ideas based on preferences.</p>
+            <span class="card-link">Find Gifts →</span>
+        </a>
+        <a href="{{ url_for('message') }}" class="project-card">
+            <div class="card-icon">💬</div>
+            <h3>Message Improver</h3>
+            <p>Make your WhatsApp messages clearer and better.</p>
+            <span class="card-link">Improve Message →</span>
+        </a>
+        <a href="{{ url_for('headline') }}" class="project-card">
+            <div class="card-icon">📰</div>
+            <h3>Headline Analyzer</h3>
+            <p>Check headlines for emotional or clickbait wording.</p>
+            <span class="card-link">Analyze Headline →</span>
+        </a>
+    </div>
+</section>
+{% endblock %}

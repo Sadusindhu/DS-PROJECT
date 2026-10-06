@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+{% block title %}Message Improver | Smart Utility Hub{% endblock %}
+{% block content %}
+<section class="tool-page">
+    <div class="tool-header">
+        <span class="tool-badge">💬 MESSAGE IMPROVER</span>
+        <h1>Improve Your WhatsApp Message</h1>
+        <p>Enter your message and choose a style to make it clearer and more polished.</p>
+    </div>
+    <div class="tool-container">
+        <div class="input-card">
+            <label for="messageText">Your Message</label>
+            <textarea id="messageText" placeholder="Example: tomorrow class 10 am all students come compulsory"></textarea>
+            <label for="messageStyle">Message Style</label>
+            <select id="messageStyle">
+                <option value="professional">Professional</option>
+                <option value="friendly">Friendly</option>
+                <option value="formal">Formal</option>
+                <option value="short">Short and Simple</option>
+            </select>
+            <button onclick="improveMessage()" class="primary-btn">Improve Message</button>
+        </div>
+        <div class="result-card" id="messageResult">
+            <div class="empty-result">
+                <span>💬</span>
+                <h3>Your improved message will appear here</h3>
+                <p>Enter your message and click "Improve Message".</p>
+            </div>
+        </div>
+    </div>
+</section>
+{% endblock %}

@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+{% block title %}Recipe Creator | Smart Utility Hub{% endblock %}
+{% block content %}
+<section class="tool-page">
+    <div class="tool-header">
+        <span class="tool-badge">🍳 RECIPE CREATOR</span>
+        <h1>Create a Delicious Recipe</h1>
+        <p>Enter the ingredients you have and get a simple recipe idea.</p>
+    </div>
+    <div class="tool-container">
+        <div class="input-card">
+            <label for="ingredients">Available Ingredients</label>
+            <textarea id="ingredients" placeholder="Example: eggs, tomato, onion, bread"></textarea>
+            <button onclick="createRecipe()" class="primary-btn">Create Recipe</button>
+        </div>
+        <div class="result-card" id="recipeResult">
+            <div class="empty-result">
+                <span>🍽️</span>
+                <h3>Your recipe will appear here</h3>
+                <p>Enter your ingredients and click "Create Recipe".</p>
+            </div>
+        </div>
+    </div>
+</section>
+{% endblock %}

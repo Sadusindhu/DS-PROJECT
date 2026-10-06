@@ -1,0 +1,45 @@
+{% extends "base.html" %}
+{% block title %}Gift Ideas | Smart Utility Hub{% endblock %}
+{% block content %}
+<section class="tool-page">
+    <div class="tool-header">
+        <span class="tool-badge">🎁 GIFT IDEAS</span>
+        <h1>Find the Perfect Gift</h1>
+        <p>Enter a few details and get personalized gift suggestions.</p>
+    </div>
+    <div class="tool-container">
+        <div class="input-card">
+            <label for="relationship">Relationship</label>
+            <select id="relationship">
+                <option value="">Select Relationship</option>
+                <option value="friend">Friend</option>
+                <option value="parent">Parent</option>
+                <option value="sibling">Sibling</option>
+                <option value="partner">Partner</option>
+                <option value="colleague">Colleague</option>
+                <option value="child">Child</option>
+            </select>
+            <label for="age">Age</label>
+            <input type="number" id="age" min="1" max="100" placeholder="Example: 25">
+            <label for="budget">Budget</label>
+            <select id="budget">
+                <option value="">Select Budget</option>
+                <option value="low">Under ₹500</option>
+                <option value="medium">₹500 - ₹2000</option>
+                <option value="high">₹2000 - ₹5000</option>
+                <option value="premium">Above ₹5000</option>
+            </select>
+            <label for="interest">Interest</label>
+            <input type="text" id="interest" placeholder="Example: gaming, music, books">
+            <button onclick="createGiftIdeas()" class="primary-btn">Find Gift Ideas</button>
+        </div>
+        <div class="result-card" id="giftResult">
+            <div class="empty-result">
+                <span>🎁</span>
+                <h3>Your gift ideas will appear here</h3>
+                <p>Enter the details and click "Find Gift Ideas".</p>
+            </div>
+        </div>
+    </div>
+</section>
+{% endblock %}
